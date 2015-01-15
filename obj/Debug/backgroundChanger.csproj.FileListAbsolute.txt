@@ -1,0 +1,6 @@
+c:\users\keaton\documents\visual studio 2013\Projects\backgroundChanger\backgroundChanger\bin\Debug\backgroundChanger.exe.config
+c:\users\keaton\documents\visual studio 2013\Projects\backgroundChanger\backgroundChanger\bin\Debug\backgroundChanger.exe
+c:\users\keaton\documents\visual studio 2013\Projects\backgroundChanger\backgroundChanger\bin\Debug\backgroundChanger.pdb
+c:\users\keaton\documents\visual studio 2013\Projects\backgroundChanger\backgroundChanger\obj\Debug\backgroundChanger.csprojResolveAssemblyReference.cache
+c:\users\keaton\documents\visual studio 2013\Projects\backgroundChanger\backgroundChanger\obj\Debug\backgroundChanger.exe
+c:\users\keaton\documents\visual studio 2013\Projects\backgroundChanger\backgroundChanger\obj\Debug\backgroundChanger.pdb
