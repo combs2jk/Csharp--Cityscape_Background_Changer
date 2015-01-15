@@ -49,8 +49,8 @@ namespace backgroundChanger
                 key.SetValue(@"WallpaperStyle", 1.ToString());
                 key.SetValue(@"TileWallpaper", 1.ToString());
             }
-
-            string tempPath = "C:\\ksNode\\" + wpaper;
+            String myDir = System.IO.Path.GetDirectoryName(System.Reflection.Assembly.GetExecutingAssembly().Location);//Path of Directory containing .exe
+           string tempPath = myDir + "\\" + wpaper; //Path of folder with images
             SystemParametersInfo(SPI_SETDESKWALLPAPER,
                 0,
                 tempPath,
